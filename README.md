@@ -88,11 +88,11 @@ Note that there is a significant increase in client CPU time and client-side tra
 |  |Accuracy | F1 score|
 |---    |---  |---   |
 |non FL   |  75.05% | 0.75  |
-|FedSem| 73.82%  | 0.74  |   
-|FedSem_updated| 77.26%  | 0.77  | 
-|FedSSL| 75.27%  | 0.75  |  
+|FedSem| 73.82%  | 0.74  |
+|FedSem_updated| 75.27%  | 0.75  |
 |FedMix| 72.93%  | 0.73  |  
 |FedMatch| 76.47%  |  0.76 |  
+|FedSSL| 76.72%  | 0.77 |  
 
 The results of our framework:
 ![image](./pic/foo_100_0.9_noniid.png)
