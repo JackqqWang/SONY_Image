@@ -1,0 +1,918 @@
+Files already downloaded and verified
+Files already downloaded and verified
+labeled data: 5000
+unlabeled data: 100 * 443
+
+ Begin Train
+Epoch   0 | Server-side: loss 2.289 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 11.7300, F1 score 0.12
+Epoch   1 | Server-side: loss 2.184 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 24.2200, F1 score 0.24
+Epoch   2 | Server-side: loss 1.924 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 29.2700, F1 score 0.29
+Epoch   3 | Server-side: loss 1.794 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 32.1400, F1 score 0.32
+Epoch   4 | Server-side: loss 1.696 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 40.2300, F1 score 0.40
+Epoch   5 | Server-side: loss 1.626 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 35.3300, F1 score 0.35
+Epoch   6 | Server-side: loss 1.577 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 43.6900, F1 score 0.44
+Epoch   7 | Server-side: loss 1.507 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 44.6200, F1 score 0.45
+Epoch   8 | Server-side: loss 1.459 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 48.9100, F1 score 0.49
+Epoch   9 | Server-side: loss 1.442 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 41.6900, F1 score 0.42
+Epoch  10 | Server-side: loss 1.404 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 48.8200, F1 score 0.49
+Epoch  11 | Server-side: loss 1.334 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 49.0800, F1 score 0.49
+Epoch  12 | Server-side: loss 1.273 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 48.0100, F1 score 0.48
+Epoch  13 | Server-side: loss 1.277 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 50.3000, F1 score 0.50
+Epoch  14 | Server-side: loss 1.226 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 49.0200, F1 score 0.49
+Epoch  15 | Server-side: loss 1.191 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.4300, F1 score 0.55
+Epoch  16 | Server-side: loss 1.141 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 43.2800, F1 score 0.43
+Epoch  17 | Server-side: loss 1.116 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.8600, F1 score 0.53
+Epoch  18 | Server-side: loss 1.088 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 54.8200, F1 score 0.55
+Epoch  19 | Server-side: loss 1.103 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 57.0000, F1 score 0.57
+Epoch  20 | Server-side: loss 1.024 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 56.2300, F1 score 0.56
+Epoch  21 | Server-side: loss 1.036 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.6700, F1 score 0.56
+Epoch  22 | Server-side: loss 0.986 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 58.5000, F1 score 0.58
+Epoch  23 | Server-side: loss 0.984 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.8000, F1 score 0.63
+Epoch  24 | Server-side: loss 0.931 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.3200, F1 score 0.61
+Epoch  25 | Server-side: loss 0.909 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 57.4400, F1 score 0.57
+Epoch  26 | Server-side: loss 0.887 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.3400, F1 score 0.55
+Epoch  27 | Server-side: loss 0.918 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 60.3600, F1 score 0.60
+Epoch  28 | Server-side: loss 0.818 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 59.9500, F1 score 0.60
+Epoch  29 | Server-side: loss 0.867 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.7000, F1 score 0.64
+Epoch  30 | Server-side: loss 0.828 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.3900, F1 score 0.63
+Epoch  31 | Server-side: loss 0.799 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.3400, F1 score 0.63
+Epoch  32 | Server-side: loss 0.787 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.8800, F1 score 0.56
+Epoch  33 | Server-side: loss 0.786 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.7300, F1 score 0.64
+Epoch  34 | Server-side: loss 0.750 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.2300, F1 score 0.64
+Epoch  35 | Server-side: loss 0.708 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.2300, F1 score 0.65
+Epoch  36 | Server-side: loss 0.703 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 60.8400, F1 score 0.61
+Epoch  37 | Server-side: loss 0.671 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.8000, F1 score 0.70
+Epoch  38 | Server-side: loss 0.669 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.0600, F1 score 0.68
+Epoch  39 | Server-side: loss 0.654 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.5700, F1 score 0.62
+Epoch  40 | Server-side: loss 0.616 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.5400, F1 score 0.68
+Epoch  41 | Server-side: loss 0.606 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.8700, F1 score 0.67
+Epoch  42 | Server-side: loss 0.615 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.1100, F1 score 0.68
+Epoch  43 | Server-side: loss 0.586 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.2900, F1 score 0.66
+Epoch  44 | Server-side: loss 0.588 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.3600, F1 score 0.63
+Epoch  45 | Server-side: loss 0.546 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.3200, F1 score 0.68
+Epoch  46 | Server-side: loss 0.545 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.4100, F1 score 0.65
+Epoch  47 | Server-side: loss 0.540 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.7000, F1 score 0.62
+Epoch  48 | Server-side: loss 0.500 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.6600, F1 score 0.71
+Epoch  49 | Server-side: loss 0.504 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.6700, F1 score 0.66
+Epoch  50 | Server-side: loss 0.506 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.3700, F1 score 0.68
+Epoch  51 | Server-side: loss 0.479 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.3800, F1 score 0.65
+Epoch  52 | Server-side: loss 0.481 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.8200, F1 score 0.72
+Epoch  53 | Server-side: loss 0.462 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.4100, F1 score 0.67
+Epoch  54 | Server-side: loss 0.465 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.3000, F1 score 0.67
+Epoch  55 | Server-side: loss 0.427 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.0800, F1 score 0.65
+Epoch  56 | Server-side: loss 0.454 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.5100, F1 score 0.73
+Epoch  57 | Server-side: loss 0.376 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.7000, F1 score 0.69
+Epoch  58 | Server-side: loss 0.407 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.0700, F1 score 0.71
+Epoch  59 | Server-side: loss 0.371 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.4400, F1 score 0.72
+Epoch  60 | Server-side: loss 0.381 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.3300, F1 score 0.68
+Epoch  61 | Server-side: loss 0.383 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.2600, F1 score 0.68
+Epoch  62 | Server-side: loss 0.355 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.2400, F1 score 0.73
+Epoch  63 | Server-side: loss 0.354 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.5900, F1 score 0.71
+Epoch  64 | Server-side: loss 0.362 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.6500, F1 score 0.66
+Epoch  65 | Server-side: loss 0.347 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.0100, F1 score 0.67
+Epoch  66 | Server-side: loss 0.345 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.9700, F1 score 0.73
+Epoch  67 | Server-side: loss 0.340 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.4700, F1 score 0.71
+Epoch  68 | Server-side: loss 0.333 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.2600, F1 score 0.70
+Epoch  69 | Server-side: loss 0.325 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.2500, F1 score 0.69
+Epoch  70 | Server-side: loss 0.287 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 74.1300, F1 score 0.74
+Epoch  71 | Server-side: loss 0.300 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.7900, F1 score 0.72
+Epoch  72 | Server-side: loss 0.282 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.6100, F1 score 0.72
+Epoch  73 | Server-side: loss 0.299 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.4000, F1 score 0.72
+Epoch  74 | Server-side: loss 0.248 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.0100, F1 score 0.69
+Epoch  75 | Server-side: loss 0.297 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.5100, F1 score 0.74
+Epoch  76 | Server-side: loss 0.280 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.3400, F1 score 0.71
+Epoch  77 | Server-side: loss 0.246 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.2200, F1 score 0.69
+Epoch  78 | Server-side: loss 0.234 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.8200, F1 score 0.71
+Epoch  79 | Server-side: loss 0.235 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.5600, F1 score 0.73
+Epoch  80 | Server-side: loss 0.241 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.5600, F1 score 0.73
+Epoch  81 | Server-side: loss 0.224 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.3200, F1 score 0.72
+Epoch  82 | Server-side: loss 0.242 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.4600, F1 score 0.72
+Epoch  83 | Server-side: loss 0.229 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.5300, F1 score 0.72
+Epoch  84 | Server-side: loss 0.191 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.6300, F1 score 0.71
+Epoch  85 | Server-side: loss 0.178 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.6100, F1 score 0.74
+Epoch  86 | Server-side: loss 0.189 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0800, F1 score 0.72
+Epoch  87 | Server-side: loss 0.195 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.3200, F1 score 0.71
+Epoch  88 | Server-side: loss 0.194 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.3000, F1 score 0.73
+Epoch  89 | Server-side: loss 0.198 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.2900, F1 score 0.73
+Epoch  90 | Server-side: loss 0.204 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.0800, F1 score 0.69
+Epoch  91 | Server-side: loss 0.202 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.6200, F1 score 0.72
+Epoch  92 | Server-side: loss 0.177 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0300, F1 score 0.72
+Epoch  93 | Server-side: loss 0.199 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.5400, F1 score 0.73
+Epoch  94 | Server-side: loss 0.162 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.3800, F1 score 0.71
+Epoch  95 | Server-side: loss 0.166 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.8300, F1 score 0.73
+Epoch  96 | Server-side: loss 0.164 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 74.5400, F1 score 0.75
+Epoch  97 | Server-side: loss 0.154 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.4200, F1 score 0.73
+Epoch  98 | Server-side: loss 0.199 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.0500, F1 score 0.73
+Epoch  99 | Server-side: loss 0.167 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.0800, F1 score 0.73
+0.06
+Epoch 100 | Server-side: loss 0.148 | Client-side: loss 0.983, average time 2732.2ms | Valid Set: Accuracy 75.8100, F1 score 0.76
+0.13
+Epoch 101 | Server-side: loss 0.157 | Client-side: loss 1.050, average time 2869.8ms | Valid Set: Accuracy 75.2000, F1 score 0.75
+0.19
+Epoch 102 | Server-side: loss 0.132 | Client-side: loss 1.036, average time 2761.1ms | Valid Set: Accuracy 75.8800, F1 score 0.76
+0.25
+Epoch 103 | Server-side: loss 0.126 | Client-side: loss 1.012, average time 2815.6ms | Valid Set: Accuracy 76.1600, F1 score 0.76
+0.3
+Epoch 104 | Server-side: loss 0.127 | Client-side: loss 1.031, average time 2795.7ms | Valid Set: Accuracy 75.7400, F1 score 0.76
+0.34
+Epoch 105 | Server-side: loss 0.114 | Client-side: loss 0.960, average time 2791.8ms | Valid Set: Accuracy 76.8800, F1 score 0.77
+0.38
+Epoch 106 | Server-side: loss 0.088 | Client-side: loss 0.950, average time 2747.6ms | Valid Set: Accuracy 76.7700, F1 score 0.77
+0.4
+Epoch 107 | Server-side: loss 0.094 | Client-side: loss 0.959, average time 2689.4ms | Valid Set: Accuracy 76.7500, F1 score 0.77
+0.44
+Epoch 108 | Server-side: loss 0.093 | Client-side: loss 0.902, average time 2752.8ms | Valid Set: Accuracy 77.1800, F1 score 0.77
+0.49
+Epoch 109 | Server-side: loss 0.086 | Client-side: loss 0.966, average time 2833.5ms | Valid Set: Accuracy 76.9900, F1 score 0.77
+0.5
+Epoch 110 | Server-side: loss 0.097 | Client-side: loss 0.893, average time 2646.0ms | Valid Set: Accuracy 77.5000, F1 score 0.78
+0.55
+Epoch 111 | Server-side: loss 0.089 | Client-side: loss 0.958, average time 2905.9ms | Valid Set: Accuracy 77.2000, F1 score 0.77
+0.57
+Epoch 112 | Server-side: loss 0.086 | Client-side: loss 0.937, average time 2818.2ms | Valid Set: Accuracy 77.2500, F1 score 0.77
+0.6
+Epoch 113 | Server-side: loss 0.081 | Client-side: loss 0.928, average time 2903.6ms | Valid Set: Accuracy 77.3600, F1 score 0.77
+0.63
+Epoch 114 | Server-side: loss 0.069 | Client-side: loss 0.957, average time 2929.7ms | Valid Set: Accuracy 76.8400, F1 score 0.77
+0.65
+Epoch 115 | Server-side: loss 0.066 | Client-side: loss 0.925, average time 2946.3ms | Valid Set: Accuracy 77.6100, F1 score 0.78
+0.66
+Epoch 116 | Server-side: loss 0.076 | Client-side: loss 0.894, average time 2860.0ms | Valid Set: Accuracy 77.7200, F1 score 0.78
+0.69
+Epoch 117 | Server-side: loss 0.077 | Client-side: loss 1.001, average time 2949.8ms | Valid Set: Accuracy 76.5900, F1 score 0.77
+0.7
+Epoch 118 | Server-side: loss 0.080 | Client-side: loss 0.890, average time 2910.9ms | Valid Set: Accuracy 77.5200, F1 score 0.78
+0.7
+Epoch 119 | Server-side: loss 0.065 | Client-side: loss 0.906, average time 2922.4ms | Valid Set: Accuracy 77.5800, F1 score 0.78
+0.72
+Epoch 120 | Server-side: loss 0.056 | Client-side: loss 0.896, average time 2907.7ms | Valid Set: Accuracy 77.6500, F1 score 0.78
+0.72
+Epoch 121 | Server-side: loss 0.061 | Client-side: loss 0.848, average time 2905.9ms | Valid Set: Accuracy 77.8500, F1 score 0.78
+0.74
+Epoch 122 | Server-side: loss 0.055 | Client-side: loss 0.946, average time 2913.1ms | Valid Set: Accuracy 76.9000, F1 score 0.77
+0.76
+Epoch 123 | Server-side: loss 0.051 | Client-side: loss 0.875, average time 2968.8ms | Valid Set: Accuracy 77.6500, F1 score 0.78
+0.76
+Epoch 124 | Server-side: loss 0.062 | Client-side: loss 0.874, average time 2919.0ms | Valid Set: Accuracy 77.7400, F1 score 0.78
+0.78
+Epoch 125 | Server-side: loss 0.049 | Client-side: loss 0.911, average time 2921.9ms | Valid Set: Accuracy 77.8500, F1 score 0.78
+0.79
+Epoch 126 | Server-side: loss 0.053 | Client-side: loss 0.843, average time 2911.6ms | Valid Set: Accuracy 78.5400, F1 score 0.79
+0.8
+Epoch 127 | Server-side: loss 0.052 | Client-side: loss 0.841, average time 2918.7ms | Valid Set: Accuracy 78.4000, F1 score 0.78
+0.81
+Epoch 128 | Server-side: loss 0.057 | Client-side: loss 0.878, average time 2871.9ms | Valid Set: Accuracy 77.7800, F1 score 0.78
+0.82
+Epoch 129 | Server-side: loss 0.052 | Client-side: loss 0.891, average time 2885.8ms | Valid Set: Accuracy 77.9100, F1 score 0.78
+0.82
+Epoch 130 | Server-side: loss 0.062 | Client-side: loss 0.912, average time 2905.4ms | Valid Set: Accuracy 77.8000, F1 score 0.78
+0.83
+Epoch 131 | Server-side: loss 0.048 | Client-side: loss 0.868, average time 2890.4ms | Valid Set: Accuracy 77.8900, F1 score 0.78
+0.84
+Epoch 132 | Server-side: loss 0.048 | Client-side: loss 0.845, average time 2915.2ms | Valid Set: Accuracy 78.5000, F1 score 0.79
+0.84
+Epoch 133 | Server-side: loss 0.052 | Client-side: loss 0.863, average time 2847.1ms | Valid Set: Accuracy 77.9600, F1 score 0.78
+0.85
+Epoch 134 | Server-side: loss 0.051 | Client-side: loss 0.842, average time 2862.0ms | Valid Set: Accuracy 78.2500, F1 score 0.78
+0.86
+Epoch 135 | Server-side: loss 0.046 | Client-side: loss 0.865, average time 2871.8ms | Valid Set: Accuracy 78.8900, F1 score 0.79
+0.87
+Epoch 136 | Server-side: loss 0.051 | Client-side: loss 0.885, average time 2507.9ms | Valid Set: Accuracy 78.1200, F1 score 0.78
+0.88
+Epoch 137 | Server-side: loss 0.047 | Client-side: loss 0.824, average time 2408.0ms | Valid Set: Accuracy 78.5100, F1 score 0.79
+0.89
+Epoch 138 | Server-side: loss 0.038 | Client-side: loss 0.836, average time 2377.2ms | Valid Set: Accuracy 78.6300, F1 score 0.79
+0.9
+Epoch 139 | Server-side: loss 0.043 | Client-side: loss 0.858, average time 2379.6ms | Valid Set: Accuracy 78.5900, F1 score 0.79
+0.9
+Epoch 140 | Server-side: loss 0.046 | Client-side: loss 0.866, average time 2362.7ms | Valid Set: Accuracy 78.8600, F1 score 0.79
+0.9
+Epoch 141 | Server-side: loss 0.049 | Client-side: loss 0.833, average time 2393.6ms | Valid Set: Accuracy 78.3500, F1 score 0.78
+0.91
+Epoch 142 | Server-side: loss 0.041 | Client-side: loss 0.799, average time 2403.1ms | Valid Set: Accuracy 78.5900, F1 score 0.79
+0.91
+Epoch 143 | Server-side: loss 0.042 | Client-side: loss 0.876, average time 2398.0ms | Valid Set: Accuracy 78.3200, F1 score 0.78
+0.91
+Epoch 144 | Server-side: loss 0.043 | Client-side: loss 0.866, average time 2422.4ms | Valid Set: Accuracy 78.4400, F1 score 0.78
+0.91
+Epoch 145 | Server-side: loss 0.039 | Client-side: loss 0.868, average time 2372.7ms | Valid Set: Accuracy 78.6100, F1 score 0.79
+0.92
+Epoch 146 | Server-side: loss 0.039 | Client-side: loss 0.854, average time 2402.7ms | Valid Set: Accuracy 78.2600, F1 score 0.78
+0.92
+Epoch 147 | Server-side: loss 0.032 | Client-side: loss 0.912, average time 2356.4ms | Valid Set: Accuracy 77.6100, F1 score 0.78
+0.92
+Epoch 148 | Server-side: loss 0.043 | Client-side: loss 0.833, average time 2410.1ms | Valid Set: Accuracy 78.6300, F1 score 0.79
+0.92
+Epoch 149 | Server-side: loss 0.040 | Client-side: loss 0.863, average time 2370.2ms | Valid Set: Accuracy 78.4200, F1 score 0.78
+0.92
+Epoch 150 | Server-side: loss 0.030 | Client-side: loss 0.833, average time 2400.2ms | Valid Set: Accuracy 78.5100, F1 score 0.79
+0.93
+Epoch 151 | Server-side: loss 0.035 | Client-side: loss 0.848, average time 2407.6ms | Valid Set: Accuracy 79.1000, F1 score 0.79
+0.94
+Epoch 152 | Server-side: loss 0.038 | Client-side: loss 0.888, average time 2367.1ms | Valid Set: Accuracy 78.1600, F1 score 0.78
+0.94
+Epoch 153 | Server-side: loss 0.035 | Client-side: loss 0.901, average time 2411.9ms | Valid Set: Accuracy 78.1300, F1 score 0.78
+0.94
+Epoch 154 | Server-side: loss 0.042 | Client-side: loss 0.898, average time 2398.4ms | Valid Set: Accuracy 78.2100, F1 score 0.78
+0.95
+Epoch 155 | Server-side: loss 0.034 | Client-side: loss 0.817, average time 2349.4ms | Valid Set: Accuracy 78.7700, F1 score 0.79
+0.95
+Epoch 156 | Server-side: loss 0.030 | Client-side: loss 0.865, average time 2391.8ms | Valid Set: Accuracy 78.5500, F1 score 0.79
+0.95
+Epoch 157 | Server-side: loss 0.035 | Client-side: loss 0.807, average time 2362.1ms | Valid Set: Accuracy 78.6100, F1 score 0.79
+0.95
+Epoch 158 | Server-side: loss 0.033 | Client-side: loss 0.846, average time 2411.5ms | Valid Set: Accuracy 78.5600, F1 score 0.79
+0.95
+Epoch 159 | Server-side: loss 0.035 | Client-side: loss 0.867, average time 2379.1ms | Valid Set: Accuracy 78.3100, F1 score 0.78
+0.95
+Epoch 160 | Server-side: loss 0.028 | Client-side: loss 0.861, average time 2381.6ms | Valid Set: Accuracy 78.7100, F1 score 0.79
+0.95
+Epoch 161 | Server-side: loss 0.031 | Client-side: loss 0.823, average time 2377.3ms | Valid Set: Accuracy 78.4200, F1 score 0.78
+0.96
+Epoch 162 | Server-side: loss 0.033 | Client-side: loss 0.844, average time 2356.4ms | Valid Set: Accuracy 78.6400, F1 score 0.79
+0.96
+Epoch 163 | Server-side: loss 0.030 | Client-side: loss 0.840, average time 2399.5ms | Valid Set: Accuracy 78.7600, F1 score 0.79
+0.96
+Epoch 164 | Server-side: loss 0.032 | Client-side: loss 0.815, average time 2413.1ms | Valid Set: Accuracy 78.8600, F1 score 0.79
+0.96
+Epoch 165 | Server-side: loss 0.034 | Client-side: loss 0.839, average time 2388.3ms | Valid Set: Accuracy 78.7400, F1 score 0.79
+0.96
+Epoch 166 | Server-side: loss 0.030 | Client-side: loss 0.865, average time 2367.9ms | Valid Set: Accuracy 78.6300, F1 score 0.79
+0.96
+Epoch 167 | Server-side: loss 0.028 | Client-side: loss 0.868, average time 2372.9ms | Valid Set: Accuracy 78.3600, F1 score 0.78
+0.96
+Epoch 168 | Server-side: loss 0.030 | Client-side: loss 0.810, average time 2198.3ms | Valid Set: Accuracy 79.2800, F1 score 0.79
+0.96
+Epoch 169 | Server-side: loss 0.027 | Client-side: loss 0.840, average time 2109.0ms | Valid Set: Accuracy 79.1100, F1 score 0.79
+0.96
+Epoch 170 | Server-side: loss 0.026 | Client-side: loss 0.865, average time 2115.6ms | Valid Set: Accuracy 78.7000, F1 score 0.79
+0.97
+Epoch 171 | Server-side: loss 0.029 | Client-side: loss 0.835, average time 2102.8ms | Valid Set: Accuracy 78.9500, F1 score 0.79
+0.97
+Epoch 172 | Server-side: loss 0.028 | Client-side: loss 0.847, average time 2056.3ms | Valid Set: Accuracy 78.3300, F1 score 0.78
+0.97
+Epoch 173 | Server-side: loss 0.031 | Client-side: loss 0.816, average time 2095.0ms | Valid Set: Accuracy 78.7100, F1 score 0.79
+0.97
+Epoch 174 | Server-side: loss 0.030 | Client-side: loss 0.865, average time 2127.3ms | Valid Set: Accuracy 78.4700, F1 score 0.78
+0.97
+Epoch 175 | Server-side: loss 0.028 | Client-side: loss 0.818, average time 2069.5ms | Valid Set: Accuracy 79.2900, F1 score 0.79
+0.97
+Epoch 176 | Server-side: loss 0.026 | Client-side: loss 0.837, average time 2099.2ms | Valid Set: Accuracy 78.3200, F1 score 0.78
+0.97
+Epoch 177 | Server-side: loss 0.022 | Client-side: loss 0.849, average time 2134.7ms | Valid Set: Accuracy 78.7300, F1 score 0.79
+0.97
+Epoch 178 | Server-side: loss 0.021 | Client-side: loss 0.859, average time 2076.8ms | Valid Set: Accuracy 78.4500, F1 score 0.78
+0.97
+Epoch 179 | Server-side: loss 0.028 | Client-side: loss 0.885, average time 1993.2ms | Valid Set: Accuracy 78.3600, F1 score 0.78
+0.97
+Epoch 180 | Server-side: loss 0.028 | Client-side: loss 0.836, average time 1922.2ms | Valid Set: Accuracy 78.7100, F1 score 0.79
+0.97
+Epoch 181 | Server-side: loss 0.025 | Client-side: loss 0.842, average time 1898.6ms | Valid Set: Accuracy 78.9300, F1 score 0.79
+0.97
+Epoch 182 | Server-side: loss 0.022 | Client-side: loss 0.851, average time 1923.5ms | Valid Set: Accuracy 78.4500, F1 score 0.78
+0.97
+Epoch 183 | Server-side: loss 0.024 | Client-side: loss 0.804, average time 1918.7ms | Valid Set: Accuracy 79.3900, F1 score 0.79
+0.97
+Epoch 184 | Server-side: loss 0.028 | Client-side: loss 0.843, average time 1902.6ms | Valid Set: Accuracy 79.1000, F1 score 0.79
+0.98
+Epoch 185 | Server-side: loss 0.026 | Client-side: loss 0.873, average time 1933.4ms | Valid Set: Accuracy 78.5700, F1 score 0.79
+0.98
+Epoch 186 | Server-side: loss 0.024 | Client-side: loss 0.863, average time 1948.9ms | Valid Set: Accuracy 79.0700, F1 score 0.79
+0.98
+Epoch 187 | Server-side: loss 0.029 | Client-side: loss 0.906, average time 1914.0ms | Valid Set: Accuracy 78.2400, F1 score 0.78
+0.98
+Epoch 188 | Server-side: loss 0.026 | Client-side: loss 0.839, average time 1923.2ms | Valid Set: Accuracy 78.5600, F1 score 0.79
+0.98
+Epoch 189 | Server-side: loss 0.024 | Client-side: loss 0.822, average time 1929.6ms | Valid Set: Accuracy 78.9000, F1 score 0.79
+0.98
+Epoch 190 | Server-side: loss 0.026 | Client-side: loss 0.883, average time 1923.5ms | Valid Set: Accuracy 78.5400, F1 score 0.79
+0.98
+Epoch 191 | Server-side: loss 0.022 | Client-side: loss 0.815, average time 1927.5ms | Valid Set: Accuracy 79.1500, F1 score 0.79
+0.98
+Epoch 192 | Server-side: loss 0.024 | Client-side: loss 0.835, average time 1933.1ms | Valid Set: Accuracy 78.6800, F1 score 0.79
+0.98
+Epoch 193 | Server-side: loss 0.022 | Client-side: loss 0.874, average time 1918.1ms | Valid Set: Accuracy 78.1600, F1 score 0.78
+0.98
+Epoch 194 | Server-side: loss 0.024 | Client-side: loss 0.856, average time 1902.7ms | Valid Set: Accuracy 79.2900, F1 score 0.79
+0.98
+Epoch 195 | Server-side: loss 0.024 | Client-side: loss 0.854, average time 1900.5ms | Valid Set: Accuracy 79.1100, F1 score 0.79
+0.98
+Epoch 196 | Server-side: loss 0.020 | Client-side: loss 0.827, average time 1879.3ms | Valid Set: Accuracy 78.7600, F1 score 0.79
+0.98
+Epoch 197 | Server-side: loss 0.022 | Client-side: loss 0.848, average time 1880.7ms | Valid Set: Accuracy 78.8400, F1 score 0.79
+0.98
+Epoch 198 | Server-side: loss 0.019 | Client-side: loss 0.877, average time 1874.2ms | Valid Set: Accuracy 78.8400, F1 score 0.79
+0.98
+Epoch 199 | Server-side: loss 0.018 | Client-side: loss 0.897, average time 1897.8ms | Valid Set: Accuracy 78.1400, F1 score 0.78
+Files already downloaded and verified
+Files already downloaded and verified
+labeled data: 5000
+unlabeled data: 100 * 441
+
+ Begin Train
+Epoch   0 | Server-side: loss 2.282 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 10.0000, F1 score 0.10
+Epoch   1 | Server-side: loss 2.162 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 16.5000, F1 score 0.17
+Epoch   2 | Server-side: loss 1.936 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 31.2000, F1 score 0.31
+Epoch   3 | Server-side: loss 1.782 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 33.8300, F1 score 0.34
+Epoch   4 | Server-side: loss 1.695 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 33.7300, F1 score 0.34
+Epoch   5 | Server-side: loss 1.617 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 39.7700, F1 score 0.40
+Epoch   6 | Server-side: loss 1.564 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 40.4100, F1 score 0.40
+Epoch   7 | Server-side: loss 1.492 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 43.9800, F1 score 0.44
+Epoch   8 | Server-side: loss 1.469 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 43.4600, F1 score 0.43
+Epoch   9 | Server-side: loss 1.426 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 42.0000, F1 score 0.42
+Epoch  10 | Server-side: loss 1.383 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 51.8200, F1 score 0.52
+Epoch  11 | Server-side: loss 1.321 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 44.9100, F1 score 0.45
+Epoch  12 | Server-side: loss 1.306 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 46.6300, F1 score 0.47
+Epoch  13 | Server-side: loss 1.248 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 45.1700, F1 score 0.45
+Epoch  14 | Server-side: loss 1.185 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 45.7700, F1 score 0.46
+Epoch  15 | Server-side: loss 1.184 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 47.5500, F1 score 0.48
+Epoch  16 | Server-side: loss 1.136 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 54.5800, F1 score 0.55
+Epoch  17 | Server-side: loss 1.080 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 58.5400, F1 score 0.59
+Epoch  18 | Server-side: loss 1.050 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 54.8700, F1 score 0.55
+Epoch  19 | Server-side: loss 1.045 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.7300, F1 score 0.53
+Epoch  20 | Server-side: loss 1.018 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 57.8000, F1 score 0.58
+Epoch  21 | Server-side: loss 0.956 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.2900, F1 score 0.61
+Epoch  22 | Server-side: loss 0.956 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 56.8400, F1 score 0.57
+Epoch  23 | Server-side: loss 0.955 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.2100, F1 score 0.52
+Epoch  24 | Server-side: loss 0.913 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 51.2900, F1 score 0.51
+Epoch  25 | Server-side: loss 0.902 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.2000, F1 score 0.55
+Epoch  26 | Server-side: loss 0.868 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 59.1200, F1 score 0.59
+Epoch  27 | Server-side: loss 0.823 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 59.0800, F1 score 0.59
+Epoch  28 | Server-side: loss 0.804 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.9900, F1 score 0.62
+Epoch  29 | Server-side: loss 0.809 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.8500, F1 score 0.62
+Epoch  30 | Server-side: loss 0.782 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.4000, F1 score 0.55
+Epoch  31 | Server-side: loss 0.743 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 56.2200, F1 score 0.56
+Epoch  32 | Server-side: loss 0.780 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.5500, F1 score 0.66
+Epoch  33 | Server-side: loss 0.742 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.7500, F1 score 0.65
+Epoch  34 | Server-side: loss 0.702 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.6100, F1 score 0.63
+Epoch  35 | Server-side: loss 0.670 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.7900, F1 score 0.68
+Epoch  36 | Server-side: loss 0.680 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.6000, F1 score 0.53
+Epoch  37 | Server-side: loss 0.687 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.0300, F1 score 0.68
+Epoch  38 | Server-side: loss 0.655 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.2200, F1 score 0.64
+Epoch  39 | Server-side: loss 0.637 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.7800, F1 score 0.66
+Epoch  40 | Server-side: loss 0.636 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.4600, F1 score 0.66
+Epoch  41 | Server-side: loss 0.631 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.2600, F1 score 0.65
+Epoch  42 | Server-side: loss 0.622 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.7600, F1 score 0.64
+Epoch  43 | Server-side: loss 0.606 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.6300, F1 score 0.65
+Epoch  44 | Server-side: loss 0.599 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.0300, F1 score 0.64
+Epoch  45 | Server-side: loss 0.583 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.6000, F1 score 0.64
+Epoch  46 | Server-side: loss 0.532 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.8800, F1 score 0.65
+Epoch  47 | Server-side: loss 0.563 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.4400, F1 score 0.66
+Epoch  48 | Server-side: loss 0.514 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.2500, F1 score 0.65
+Epoch  49 | Server-side: loss 0.510 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.4200, F1 score 0.62
+Epoch  50 | Server-side: loss 0.507 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.4400, F1 score 0.66
+Epoch  51 | Server-side: loss 0.467 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.0900, F1 score 0.68
+Epoch  52 | Server-side: loss 0.459 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.5300, F1 score 0.69
+Epoch  53 | Server-side: loss 0.475 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.6400, F1 score 0.70
+Epoch  54 | Server-side: loss 0.463 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.0800, F1 score 0.71
+Epoch  55 | Server-side: loss 0.450 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.8700, F1 score 0.69
+Epoch  56 | Server-side: loss 0.460 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.1700, F1 score 0.69
+Epoch  57 | Server-side: loss 0.451 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.9000, F1 score 0.71
+Epoch  58 | Server-side: loss 0.409 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.7200, F1 score 0.71
+Epoch  59 | Server-side: loss 0.416 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.8500, F1 score 0.71
+Epoch  60 | Server-side: loss 0.375 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.5000, F1 score 0.70
+Epoch  61 | Server-side: loss 0.432 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.8900, F1 score 0.65
+Epoch  62 | Server-side: loss 0.382 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.4400, F1 score 0.69
+Epoch  63 | Server-side: loss 0.361 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.2800, F1 score 0.71
+Epoch  64 | Server-side: loss 0.364 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.1600, F1 score 0.69
+Epoch  65 | Server-side: loss 0.364 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.3400, F1 score 0.67
+Epoch  66 | Server-side: loss 0.357 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.8500, F1 score 0.70
+Epoch  67 | Server-side: loss 0.330 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.6600, F1 score 0.68
+Epoch  68 | Server-side: loss 0.316 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.7800, F1 score 0.72
+Epoch  69 | Server-side: loss 0.316 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.2000, F1 score 0.71
+Epoch  70 | Server-side: loss 0.320 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.8000, F1 score 0.66
+Epoch  71 | Server-side: loss 0.350 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.1000, F1 score 0.67
+Epoch  72 | Server-side: loss 0.339 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.2800, F1 score 0.69
+Epoch  73 | Server-side: loss 0.332 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.6600, F1 score 0.72
+Epoch  74 | Server-side: loss 0.267 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.9700, F1 score 0.71
+Epoch  75 | Server-side: loss 0.295 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.9600, F1 score 0.70
+Epoch  76 | Server-side: loss 0.268 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.8100, F1 score 0.69
+Epoch  77 | Server-side: loss 0.291 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.2300, F1 score 0.73
+Epoch  78 | Server-side: loss 0.257 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.2900, F1 score 0.70
+Epoch  79 | Server-side: loss 0.263 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.9000, F1 score 0.71
+Epoch  80 | Server-side: loss 0.222 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.5300, F1 score 0.74
+Epoch  81 | Server-side: loss 0.216 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.2100, F1 score 0.70
+Epoch  82 | Server-side: loss 0.265 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.4400, F1 score 0.72
+Epoch  83 | Server-side: loss 0.255 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.0300, F1 score 0.71
+Epoch  84 | Server-side: loss 0.235 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.2600, F1 score 0.68
+Epoch  85 | Server-side: loss 0.219 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.7500, F1 score 0.71
+Epoch  86 | Server-side: loss 0.210 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.1200, F1 score 0.65
+Epoch  87 | Server-side: loss 0.257 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.6700, F1 score 0.71
+Epoch  88 | Server-side: loss 0.226 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.5400, F1 score 0.72
+Epoch  89 | Server-side: loss 0.204 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0400, F1 score 0.72
+Epoch  90 | Server-side: loss 0.191 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.4400, F1 score 0.71
+Epoch  91 | Server-side: loss 0.162 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.5600, F1 score 0.74
+Epoch  92 | Server-side: loss 0.213 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.2700, F1 score 0.72
+Epoch  93 | Server-side: loss 0.208 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.1300, F1 score 0.69
+Epoch  94 | Server-side: loss 0.194 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.1800, F1 score 0.70
+Epoch  95 | Server-side: loss 0.189 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 75.0300, F1 score 0.75
+Epoch  96 | Server-side: loss 0.170 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.4200, F1 score 0.70
+Epoch  97 | Server-side: loss 0.174 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.7900, F1 score 0.68
+Epoch  98 | Server-side: loss 0.169 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0100, F1 score 0.72
+Epoch  99 | Server-side: loss 0.174 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.7500, F1 score 0.74
+0.06
+Epoch 100 | Server-side: loss 0.180 | Client-side: loss 0.976, average time 1915.4ms | Valid Set: Accuracy 74.2400, F1 score 0.74
+0.12
+Epoch 101 | Server-side: loss 0.186 | Client-side: loss 1.058, average time 1914.6ms | Valid Set: Accuracy 74.3800, F1 score 0.74
+0.17
+Epoch 102 | Server-side: loss 0.171 | Client-side: loss 0.966, average time 1901.0ms | Valid Set: Accuracy 75.1000, F1 score 0.75
+0.22
+Epoch 103 | Server-side: loss 0.136 | Client-side: loss 1.084, average time 1925.2ms | Valid Set: Accuracy 74.1400, F1 score 0.74
+0.27
+Epoch 104 | Server-side: loss 0.124 | Client-side: loss 0.920, average time 1924.5ms | Valid Set: Accuracy 76.6000, F1 score 0.77
+0.32
+Epoch 105 | Server-side: loss 0.114 | Client-side: loss 0.976, average time 1911.3ms | Valid Set: Accuracy 75.9400, F1 score 0.76
+0.35
+Epoch 106 | Server-side: loss 0.119 | Client-side: loss 1.004, average time 1910.9ms | Valid Set: Accuracy 74.8200, F1 score 0.75
+0.4
+Epoch 107 | Server-side: loss 0.119 | Client-side: loss 1.050, average time 1906.2ms | Valid Set: Accuracy 75.2100, F1 score 0.75
+0.44
+Epoch 108 | Server-side: loss 0.102 | Client-side: loss 1.094, average time 1894.1ms | Valid Set: Accuracy 73.3800, F1 score 0.73
+0.47
+Epoch 109 | Server-side: loss 0.139 | Client-side: loss 0.941, average time 1892.5ms | Valid Set: Accuracy 76.6600, F1 score 0.77
+0.5
+Epoch 110 | Server-side: loss 0.105 | Client-side: loss 0.934, average time 1881.7ms | Valid Set: Accuracy 75.9200, F1 score 0.76
+0.53
+Epoch 111 | Server-side: loss 0.112 | Client-side: loss 0.953, average time 1903.4ms | Valid Set: Accuracy 75.9300, F1 score 0.76
+0.56
+Epoch 112 | Server-side: loss 0.087 | Client-side: loss 0.903, average time 1895.1ms | Valid Set: Accuracy 77.3100, F1 score 0.77
+0.58
+Epoch 113 | Server-side: loss 0.080 | Client-side: loss 1.026, average time 1968.2ms | Valid Set: Accuracy 75.1900, F1 score 0.75
+0.6
+Epoch 114 | Server-side: loss 0.095 | Client-side: loss 0.899, average time 1973.0ms | Valid Set: Accuracy 76.7200, F1 score 0.77
+0.64
+Epoch 115 | Server-side: loss 0.092 | Client-side: loss 0.914, average time 2006.7ms | Valid Set: Accuracy 76.9700, F1 score 0.77
+0.65
+Epoch 116 | Server-side: loss 0.081 | Client-side: loss 0.837, average time 1970.3ms | Valid Set: Accuracy 77.5600, F1 score 0.78
+0.66
+Epoch 117 | Server-side: loss 0.082 | Client-side: loss 0.938, average time 1922.7ms | Valid Set: Accuracy 75.9800, F1 score 0.76
+0.68
+Epoch 118 | Server-side: loss 0.084 | Client-side: loss 0.948, average time 1894.3ms | Valid Set: Accuracy 75.8700, F1 score 0.76
+0.7
+Epoch 119 | Server-side: loss 0.072 | Client-side: loss 0.956, average time 1911.3ms | Valid Set: Accuracy 76.1600, F1 score 0.76
+0.73
+Epoch 120 | Server-side: loss 0.079 | Client-side: loss 0.909, average time 1917.0ms | Valid Set: Accuracy 77.0600, F1 score 0.77
+0.74
+Epoch 121 | Server-side: loss 0.083 | Client-side: loss 0.881, average time 1934.3ms | Valid Set: Accuracy 76.6400, F1 score 0.77
+0.74
+Epoch 122 | Server-side: loss 0.077 | Client-side: loss 0.902, average time 1940.9ms | Valid Set: Accuracy 76.5500, F1 score 0.77
+0.77
+Epoch 123 | Server-side: loss 0.065 | Client-side: loss 0.923, average time 1935.0ms | Valid Set: Accuracy 77.1100, F1 score 0.77
+0.78
+Epoch 124 | Server-side: loss 0.075 | Client-side: loss 0.872, average time 1958.1ms | Valid Set: Accuracy 77.7700, F1 score 0.78
+0.79
+Epoch 125 | Server-side: loss 0.067 | Client-side: loss 0.839, average time 1929.2ms | Valid Set: Accuracy 78.2100, F1 score 0.78
+0.8
+Epoch 126 | Server-side: loss 0.062 | Client-side: loss 0.894, average time 1902.1ms | Valid Set: Accuracy 77.3000, F1 score 0.77
+0.81
+Epoch 127 | Server-side: loss 0.068 | Client-side: loss 0.913, average time 1903.5ms | Valid Set: Accuracy 76.8400, F1 score 0.77
+0.82
+Epoch 128 | Server-side: loss 0.066 | Client-side: loss 0.819, average time 1919.6ms | Valid Set: Accuracy 77.8800, F1 score 0.78
+0.83
+Epoch 129 | Server-side: loss 0.053 | Client-side: loss 0.902, average time 1940.7ms | Valid Set: Accuracy 77.1300, F1 score 0.77
+0.83
+Epoch 130 | Server-side: loss 0.057 | Client-side: loss 0.885, average time 1975.9ms | Valid Set: Accuracy 77.3000, F1 score 0.77
+0.85
+Epoch 131 | Server-side: loss 0.054 | Client-side: loss 0.882, average time 1919.8ms | Valid Set: Accuracy 76.7800, F1 score 0.77
+0.85
+Epoch 132 | Server-side: loss 0.063 | Client-side: loss 0.930, average time 1902.6ms | Valid Set: Accuracy 76.3500, F1 score 0.76
+0.86
+Epoch 133 | Server-side: loss 0.058 | Client-side: loss 0.932, average time 1933.1ms | Valid Set: Accuracy 76.1000, F1 score 0.76
+0.86
+Epoch 134 | Server-side: loss 0.062 | Client-side: loss 0.812, average time 1947.8ms | Valid Set: Accuracy 78.5900, F1 score 0.79
+0.87
+Epoch 135 | Server-side: loss 0.054 | Client-side: loss 0.856, average time 1944.0ms | Valid Set: Accuracy 77.4300, F1 score 0.77
+0.87
+Epoch 136 | Server-side: loss 0.053 | Client-side: loss 0.910, average time 1967.7ms | Valid Set: Accuracy 77.2600, F1 score 0.77
+0.88
+Epoch 137 | Server-side: loss 0.051 | Client-side: loss 0.869, average time 1926.5ms | Valid Set: Accuracy 78.0400, F1 score 0.78
+0.88
+Epoch 138 | Server-side: loss 0.049 | Client-side: loss 0.837, average time 1932.3ms | Valid Set: Accuracy 78.0400, F1 score 0.78
+0.89
+Epoch 139 | Server-side: loss 0.051 | Client-side: loss 0.933, average time 1938.5ms | Valid Set: Accuracy 76.9400, F1 score 0.77
+0.89
+Epoch 140 | Server-side: loss 0.058 | Client-side: loss 0.861, average time 1929.8ms | Valid Set: Accuracy 77.2700, F1 score 0.77
+0.89
+Epoch 141 | Server-side: loss 0.046 | Client-side: loss 0.888, average time 1935.4ms | Valid Set: Accuracy 77.5600, F1 score 0.78
+0.9
+Epoch 142 | Server-side: loss 0.043 | Client-side: loss 0.878, average time 1928.2ms | Valid Set: Accuracy 77.9400, F1 score 0.78
+0.91
+Epoch 143 | Server-side: loss 0.047 | Client-side: loss 0.848, average time 1957.8ms | Valid Set: Accuracy 77.6500, F1 score 0.78
+0.91
+Epoch 144 | Server-side: loss 0.047 | Client-side: loss 0.865, average time 1940.7ms | Valid Set: Accuracy 77.8200, F1 score 0.78
+0.91
+Epoch 145 | Server-side: loss 0.044 | Client-side: loss 0.842, average time 1936.6ms | Valid Set: Accuracy 78.1000, F1 score 0.78
+0.92
+Epoch 146 | Server-side: loss 0.049 | Client-side: loss 0.902, average time 1945.4ms | Valid Set: Accuracy 77.1100, F1 score 0.77
+0.92
+Epoch 147 | Server-side: loss 0.041 | Client-side: loss 0.865, average time 1948.6ms | Valid Set: Accuracy 77.6300, F1 score 0.78
+0.92
+Epoch 148 | Server-side: loss 0.043 | Client-side: loss 0.906, average time 1933.3ms | Valid Set: Accuracy 76.6800, F1 score 0.77
+0.93
+Epoch 149 | Server-side: loss 0.047 | Client-side: loss 0.899, average time 1914.0ms | Valid Set: Accuracy 76.9100, F1 score 0.77
+0.93
+Epoch 150 | Server-side: loss 0.045 | Client-side: loss 0.879, average time 1939.7ms | Valid Set: Accuracy 77.4100, F1 score 0.77
+0.93
+Epoch 151 | Server-side: loss 0.043 | Client-side: loss 0.852, average time 1969.8ms | Valid Set: Accuracy 77.4800, F1 score 0.77
+0.93
+Epoch 152 | Server-side: loss 0.040 | Client-side: loss 0.878, average time 1959.4ms | Valid Set: Accuracy 77.5400, F1 score 0.78
+0.93
+Epoch 153 | Server-side: loss 0.046 | Client-side: loss 0.822, average time 1913.6ms | Valid Set: Accuracy 78.2600, F1 score 0.78
+0.94
+Epoch 154 | Server-side: loss 0.042 | Client-side: loss 0.809, average time 1933.3ms | Valid Set: Accuracy 78.0500, F1 score 0.78
+0.94
+Epoch 155 | Server-side: loss 0.037 | Client-side: loss 0.846, average time 1924.8ms | Valid Set: Accuracy 78.0500, F1 score 0.78
+0.94
+Epoch 156 | Server-side: loss 0.045 | Client-side: loss 0.913, average time 1956.3ms | Valid Set: Accuracy 77.0200, F1 score 0.77
+0.94
+Epoch 157 | Server-side: loss 0.035 | Client-side: loss 0.894, average time 1951.2ms | Valid Set: Accuracy 77.4200, F1 score 0.77
+0.94
+Epoch 158 | Server-side: loss 0.037 | Client-side: loss 0.833, average time 1947.4ms | Valid Set: Accuracy 78.3200, F1 score 0.78
+0.95
+Epoch 159 | Server-side: loss 0.034 | Client-side: loss 0.870, average time 1934.4ms | Valid Set: Accuracy 77.2500, F1 score 0.77
+0.95
+Epoch 160 | Server-side: loss 0.035 | Client-side: loss 0.837, average time 1926.1ms | Valid Set: Accuracy 77.9700, F1 score 0.78
+0.95
+Epoch 161 | Server-side: loss 0.039 | Client-side: loss 0.854, average time 1952.1ms | Valid Set: Accuracy 77.2900, F1 score 0.77
+0.95
+Epoch 162 | Server-side: loss 0.038 | Client-side: loss 0.816, average time 1956.1ms | Valid Set: Accuracy 78.4300, F1 score 0.78
+0.95
+Epoch 163 | Server-side: loss 0.032 | Client-side: loss 0.886, average time 1964.7ms | Valid Set: Accuracy 77.8100, F1 score 0.78
+0.95
+Epoch 164 | Server-side: loss 0.034 | Client-side: loss 0.854, average time 1925.8ms | Valid Set: Accuracy 77.5300, F1 score 0.78
+0.95
+Epoch 165 | Server-side: loss 0.036 | Client-side: loss 0.816, average time 1934.2ms | Valid Set: Accuracy 78.6700, F1 score 0.79
+0.96
+Epoch 166 | Server-side: loss 0.034 | Client-side: loss 0.887, average time 1940.0ms | Valid Set: Accuracy 77.6400, F1 score 0.78
+0.96
+Epoch 167 | Server-side: loss 0.034 | Client-side: loss 0.841, average time 1955.4ms | Valid Set: Accuracy 78.0600, F1 score 0.78
+0.96
+Epoch 168 | Server-side: loss 0.032 | Client-side: loss 0.882, average time 1949.1ms | Valid Set: Accuracy 78.2900, F1 score 0.78
+0.96
+Epoch 169 | Server-side: loss 0.030 | Client-side: loss 0.892, average time 1958.0ms | Valid Set: Accuracy 77.8000, F1 score 0.78
+0.96
+Epoch 170 | Server-side: loss 0.033 | Client-side: loss 0.867, average time 1928.7ms | Valid Set: Accuracy 78.2300, F1 score 0.78
+0.96
+Epoch 171 | Server-side: loss 0.030 | Client-side: loss 0.870, average time 1927.1ms | Valid Set: Accuracy 78.1400, F1 score 0.78
+0.96
+Epoch 172 | Server-side: loss 0.030 | Client-side: loss 0.913, average time 1925.4ms | Valid Set: Accuracy 77.4600, F1 score 0.77
+0.96
+Epoch 173 | Server-side: loss 0.027 | Client-side: loss 0.858, average time 1939.8ms | Valid Set: Accuracy 77.8700, F1 score 0.78
+0.97
+Epoch 174 | Server-side: loss 0.030 | Client-side: loss 0.858, average time 1921.3ms | Valid Set: Accuracy 77.7300, F1 score 0.78
+0.97
+Epoch 175 | Server-side: loss 0.034 | Client-side: loss 0.895, average time 1909.1ms | Valid Set: Accuracy 77.2300, F1 score 0.77
+0.97
+Epoch 176 | Server-side: loss 0.034 | Client-side: loss 0.878, average time 1943.9ms | Valid Set: Accuracy 77.9600, F1 score 0.78
+0.97
+Epoch 177 | Server-side: loss 0.029 | Client-side: loss 0.811, average time 1957.5ms | Valid Set: Accuracy 78.8100, F1 score 0.79
+0.97
+Epoch 178 | Server-side: loss 0.031 | Client-side: loss 0.829, average time 1937.6ms | Valid Set: Accuracy 78.9300, F1 score 0.79
+0.97
+Epoch 179 | Server-side: loss 0.025 | Client-side: loss 0.844, average time 1922.2ms | Valid Set: Accuracy 78.4300, F1 score 0.78
+0.97
+Epoch 180 | Server-side: loss 0.029 | Client-side: loss 0.857, average time 1930.0ms | Valid Set: Accuracy 78.1400, F1 score 0.78
+0.97
+Epoch 181 | Server-side: loss 0.028 | Client-side: loss 0.837, average time 1921.6ms | Valid Set: Accuracy 78.2700, F1 score 0.78
+0.97
+Epoch 182 | Server-side: loss 0.030 | Client-side: loss 0.813, average time 1944.1ms | Valid Set: Accuracy 78.4200, F1 score 0.78
+0.97
+Epoch 183 | Server-side: loss 0.027 | Client-side: loss 0.858, average time 1936.4ms | Valid Set: Accuracy 78.2800, F1 score 0.78
+0.97
+Epoch 184 | Server-side: loss 0.031 | Client-side: loss 0.832, average time 1926.6ms | Valid Set: Accuracy 78.5800, F1 score 0.79
+0.97
+Epoch 185 | Server-side: loss 0.028 | Client-side: loss 0.841, average time 1941.1ms | Valid Set: Accuracy 78.6000, F1 score 0.79
+0.97
+Epoch 186 | Server-side: loss 0.027 | Client-side: loss 0.840, average time 1916.8ms | Valid Set: Accuracy 78.7600, F1 score 0.79
+0.98
+Epoch 187 | Server-side: loss 0.026 | Client-side: loss 0.804, average time 1915.2ms | Valid Set: Accuracy 78.9200, F1 score 0.79
+0.98
+Epoch 188 | Server-side: loss 0.023 | Client-side: loss 0.821, average time 1939.1ms | Valid Set: Accuracy 78.3500, F1 score 0.78
+0.98
+Epoch 189 | Server-side: loss 0.028 | Client-side: loss 0.931, average time 1957.3ms | Valid Set: Accuracy 77.1900, F1 score 0.77
+0.98
+Epoch 190 | Server-side: loss 0.026 | Client-side: loss 0.835, average time 1941.1ms | Valid Set: Accuracy 78.5000, F1 score 0.79
+0.98
+Epoch 191 | Server-side: loss 0.027 | Client-side: loss 0.884, average time 1914.6ms | Valid Set: Accuracy 77.3800, F1 score 0.77
+0.98
+Epoch 192 | Server-side: loss 0.027 | Client-side: loss 0.833, average time 1915.4ms | Valid Set: Accuracy 78.5900, F1 score 0.79
+0.98
+Epoch 193 | Server-side: loss 0.024 | Client-side: loss 0.814, average time 1938.1ms | Valid Set: Accuracy 79.0200, F1 score 0.79
+0.98
+Epoch 194 | Server-side: loss 0.024 | Client-side: loss 0.866, average time 1916.0ms | Valid Set: Accuracy 77.6700, F1 score 0.78
+0.98
+Epoch 195 | Server-side: loss 0.028 | Client-side: loss 0.878, average time 1938.6ms | Valid Set: Accuracy 78.1400, F1 score 0.78
+0.98
+Epoch 196 | Server-side: loss 0.026 | Client-side: loss 0.815, average time 1926.9ms | Valid Set: Accuracy 78.5700, F1 score 0.79
+0.98
+Epoch 197 | Server-side: loss 0.024 | Client-side: loss 0.841, average time 1917.1ms | Valid Set: Accuracy 78.9900, F1 score 0.79
+0.98
+Epoch 198 | Server-side: loss 0.024 | Client-side: loss 0.855, average time 1925.1ms | Valid Set: Accuracy 78.4000, F1 score 0.78
+0.98
+Epoch 199 | Server-side: loss 0.024 | Client-side: loss 0.861, average time 1925.3ms | Valid Set: Accuracy 78.9300, F1 score 0.79
+Files already downloaded and verified
+Files already downloaded and verified
+labeled data: 5000
+unlabeled data: 100 * 458
+
+ Begin Train
+Epoch   0 | Server-side: loss 2.287 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 15.0200, F1 score 0.15
+Epoch   1 | Server-side: loss 2.174 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 23.8600, F1 score 0.24
+Epoch   2 | Server-side: loss 1.913 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 29.8600, F1 score 0.30
+Epoch   3 | Server-side: loss 1.761 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 36.4500, F1 score 0.36
+Epoch   4 | Server-side: loss 1.660 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 38.1800, F1 score 0.38
+Epoch   5 | Server-side: loss 1.576 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 34.5200, F1 score 0.35
+Epoch   6 | Server-side: loss 1.528 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 42.9800, F1 score 0.43
+Epoch   7 | Server-side: loss 1.472 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 44.5100, F1 score 0.45
+Epoch   8 | Server-side: loss 1.416 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 42.1400, F1 score 0.42
+Epoch   9 | Server-side: loss 1.394 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 42.1400, F1 score 0.42
+Epoch  10 | Server-side: loss 1.314 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 44.7000, F1 score 0.45
+Epoch  11 | Server-side: loss 1.300 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 50.5600, F1 score 0.51
+Epoch  12 | Server-side: loss 1.246 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 54.1500, F1 score 0.54
+Epoch  13 | Server-side: loss 1.202 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 46.2200, F1 score 0.46
+Epoch  14 | Server-side: loss 1.206 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 50.2800, F1 score 0.50
+Epoch  15 | Server-side: loss 1.123 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 53.1300, F1 score 0.53
+Epoch  16 | Server-side: loss 1.102 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 51.5300, F1 score 0.52
+Epoch  17 | Server-side: loss 1.114 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 55.2500, F1 score 0.55
+Epoch  18 | Server-side: loss 1.064 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 59.1500, F1 score 0.59
+Epoch  19 | Server-side: loss 1.035 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 51.0600, F1 score 0.51
+Epoch  20 | Server-side: loss 1.003 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 59.0500, F1 score 0.59
+Epoch  21 | Server-side: loss 1.004 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.5800, F1 score 0.53
+Epoch  22 | Server-side: loss 0.960 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.8400, F1 score 0.62
+Epoch  23 | Server-side: loss 0.929 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.2100, F1 score 0.62
+Epoch  24 | Server-side: loss 0.883 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.1000, F1 score 0.64
+Epoch  25 | Server-side: loss 0.895 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.8400, F1 score 0.53
+Epoch  26 | Server-side: loss 0.858 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 50.8200, F1 score 0.51
+Epoch  27 | Server-side: loss 0.865 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.2000, F1 score 0.63
+Epoch  28 | Server-side: loss 0.810 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.4700, F1 score 0.62
+Epoch  29 | Server-side: loss 0.804 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.5800, F1 score 0.62
+Epoch  30 | Server-side: loss 0.767 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.2800, F1 score 0.64
+Epoch  31 | Server-side: loss 0.775 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 52.5300, F1 score 0.53
+Epoch  32 | Server-side: loss 0.740 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.3400, F1 score 0.62
+Epoch  33 | Server-side: loss 0.723 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.0600, F1 score 0.65
+Epoch  34 | Server-side: loss 0.732 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 61.2100, F1 score 0.61
+Epoch  35 | Server-side: loss 0.711 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.1200, F1 score 0.65
+Epoch  36 | Server-side: loss 0.676 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.8200, F1 score 0.66
+Epoch  37 | Server-side: loss 0.653 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.5600, F1 score 0.65
+Epoch  38 | Server-side: loss 0.663 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.7800, F1 score 0.70
+Epoch  39 | Server-side: loss 0.625 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.8000, F1 score 0.67
+Epoch  40 | Server-side: loss 0.638 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.6500, F1 score 0.64
+Epoch  41 | Server-side: loss 0.613 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.5300, F1 score 0.64
+Epoch  42 | Server-side: loss 0.589 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.3800, F1 score 0.68
+Epoch  43 | Server-side: loss 0.604 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.1900, F1 score 0.64
+Epoch  44 | Server-side: loss 0.562 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.8700, F1 score 0.65
+Epoch  45 | Server-side: loss 0.555 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.2200, F1 score 0.64
+Epoch  46 | Server-side: loss 0.540 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 62.6400, F1 score 0.63
+Epoch  47 | Server-side: loss 0.525 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.2400, F1 score 0.67
+Epoch  48 | Server-side: loss 0.524 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.4400, F1 score 0.65
+Epoch  49 | Server-side: loss 0.506 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.0900, F1 score 0.65
+Epoch  50 | Server-side: loss 0.470 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.1900, F1 score 0.66
+Epoch  51 | Server-side: loss 0.508 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.7900, F1 score 0.65
+Epoch  52 | Server-side: loss 0.491 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.9200, F1 score 0.71
+Epoch  53 | Server-side: loss 0.435 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.4200, F1 score 0.67
+Epoch  54 | Server-side: loss 0.450 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 64.9200, F1 score 0.65
+Epoch  55 | Server-side: loss 0.469 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.8600, F1 score 0.69
+Epoch  56 | Server-side: loss 0.437 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 66.8100, F1 score 0.67
+Epoch  57 | Server-side: loss 0.409 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.9100, F1 score 0.71
+Epoch  58 | Server-side: loss 0.393 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.3000, F1 score 0.65
+Epoch  59 | Server-side: loss 0.411 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.9200, F1 score 0.68
+Epoch  60 | Server-side: loss 0.399 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.3300, F1 score 0.71
+Epoch  61 | Server-side: loss 0.359 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.5000, F1 score 0.71
+Epoch  62 | Server-side: loss 0.357 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.8600, F1 score 0.68
+Epoch  63 | Server-side: loss 0.389 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0900, F1 score 0.72
+Epoch  64 | Server-side: loss 0.337 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.7600, F1 score 0.72
+Epoch  65 | Server-side: loss 0.350 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.0800, F1 score 0.71
+Epoch  66 | Server-side: loss 0.331 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.6700, F1 score 0.71
+Epoch  67 | Server-side: loss 0.310 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 67.1500, F1 score 0.67
+Epoch  68 | Server-side: loss 0.340 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.2800, F1 score 0.70
+Epoch  69 | Server-side: loss 0.315 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 65.8400, F1 score 0.66
+Epoch  70 | Server-side: loss 0.319 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0000, F1 score 0.72
+Epoch  71 | Server-side: loss 0.302 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.5600, F1 score 0.71
+Epoch  72 | Server-side: loss 0.293 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.6900, F1 score 0.69
+Epoch  73 | Server-side: loss 0.293 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.1600, F1 score 0.71
+Epoch  74 | Server-side: loss 0.287 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.3900, F1 score 0.68
+Epoch  75 | Server-side: loss 0.280 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.3500, F1 score 0.69
+Epoch  76 | Server-side: loss 0.253 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.6400, F1 score 0.71
+Epoch  77 | Server-side: loss 0.275 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.6500, F1 score 0.72
+Epoch  78 | Server-side: loss 0.275 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 69.2200, F1 score 0.69
+Epoch  79 | Server-side: loss 0.253 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.6900, F1 score 0.71
+Epoch  80 | Server-side: loss 0.289 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.7500, F1 score 0.71
+Epoch  81 | Server-side: loss 0.245 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.9300, F1 score 0.71
+Epoch  82 | Server-side: loss 0.207 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.3300, F1 score 0.70
+Epoch  83 | Server-side: loss 0.224 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.8800, F1 score 0.73
+Epoch  84 | Server-side: loss 0.248 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.8900, F1 score 0.71
+Epoch  85 | Server-side: loss 0.201 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 68.2400, F1 score 0.68
+Epoch  86 | Server-side: loss 0.217 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 63.8800, F1 score 0.64
+Epoch  87 | Server-side: loss 0.218 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.8800, F1 score 0.72
+Epoch  88 | Server-side: loss 0.181 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0900, F1 score 0.72
+Epoch  89 | Server-side: loss 0.197 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.0600, F1 score 0.72
+Epoch  90 | Server-side: loss 0.184 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.4600, F1 score 0.72
+Epoch  91 | Server-side: loss 0.180 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.1600, F1 score 0.72
+Epoch  92 | Server-side: loss 0.198 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.2100, F1 score 0.73
+Epoch  93 | Server-side: loss 0.199 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 71.5800, F1 score 0.72
+Epoch  94 | Server-side: loss 0.207 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.7100, F1 score 0.74
+Epoch  95 | Server-side: loss 0.186 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 72.4900, F1 score 0.72
+Epoch  96 | Server-side: loss 0.161 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 73.0600, F1 score 0.73
+Epoch  97 | Server-side: loss 0.162 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 70.5400, F1 score 0.71
+Epoch  98 | Server-side: loss 0.158 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 74.3700, F1 score 0.74
+Epoch  99 | Server-side: loss 0.150 | Client-side: loss 0.000, average time 0.0ms | Valid Set: Accuracy 75.0900, F1 score 0.75
+0.07
+Epoch 100 | Server-side: loss 0.186 | Client-side: loss 1.200, average time 1937.7ms | Valid Set: Accuracy 71.4400, F1 score 0.71
+0.13
+Epoch 101 | Server-side: loss 0.228 | Client-side: loss 1.227, average time 1971.8ms | Valid Set: Accuracy 71.5900, F1 score 0.72
+0.18
+Epoch 102 | Server-side: loss 0.183 | Client-side: loss 0.870, average time 1960.2ms | Valid Set: Accuracy 76.6800, F1 score 0.77
+0.23
+Epoch 103 | Server-side: loss 0.177 | Client-side: loss 0.872, average time 1940.3ms | Valid Set: Accuracy 76.2800, F1 score 0.76
+0.27
+Epoch 104 | Server-side: loss 0.133 | Client-side: loss 0.932, average time 1937.9ms | Valid Set: Accuracy 76.7200, F1 score 0.77
+0.32
+Epoch 105 | Server-side: loss 0.114 | Client-side: loss 1.053, average time 1963.9ms | Valid Set: Accuracy 74.3800, F1 score 0.74
+0.36
+Epoch 106 | Server-side: loss 0.125 | Client-side: loss 0.883, average time 1928.1ms | Valid Set: Accuracy 76.7300, F1 score 0.77
+0.4
+Epoch 107 | Server-side: loss 0.112 | Client-side: loss 0.989, average time 1935.2ms | Valid Set: Accuracy 76.5100, F1 score 0.77
+0.43
+Epoch 108 | Server-side: loss 0.091 | Client-side: loss 0.943, average time 1916.6ms | Valid Set: Accuracy 77.0000, F1 score 0.77
+0.47
+Epoch 109 | Server-side: loss 0.104 | Client-side: loss 0.880, average time 1949.9ms | Valid Set: Accuracy 77.6100, F1 score 0.78
+0.51
+Epoch 110 | Server-side: loss 0.101 | Client-side: loss 0.965, average time 1924.7ms | Valid Set: Accuracy 77.0500, F1 score 0.77
+0.55
+Epoch 111 | Server-side: loss 0.093 | Client-side: loss 0.876, average time 1948.8ms | Valid Set: Accuracy 77.4700, F1 score 0.77
+0.57
+Epoch 112 | Server-side: loss 0.089 | Client-side: loss 0.918, average time 1925.4ms | Valid Set: Accuracy 76.1200, F1 score 0.76
+0.59
+Epoch 113 | Server-side: loss 0.075 | Client-side: loss 0.871, average time 1969.5ms | Valid Set: Accuracy 77.7700, F1 score 0.78
+0.62
+Epoch 114 | Server-side: loss 0.077 | Client-side: loss 0.849, average time 1968.3ms | Valid Set: Accuracy 78.1200, F1 score 0.78
+0.65
+Epoch 115 | Server-side: loss 0.076 | Client-side: loss 0.892, average time 1974.9ms | Valid Set: Accuracy 77.6100, F1 score 0.78
+0.67
+Epoch 116 | Server-side: loss 0.078 | Client-side: loss 0.876, average time 1953.8ms | Valid Set: Accuracy 77.9800, F1 score 0.78
+0.68
+Epoch 117 | Server-side: loss 0.072 | Client-side: loss 0.880, average time 1935.0ms | Valid Set: Accuracy 77.3100, F1 score 0.77
+0.69
+Epoch 118 | Server-side: loss 0.085 | Client-side: loss 0.880, average time 1932.7ms | Valid Set: Accuracy 76.9600, F1 score 0.77
+0.7
+Epoch 119 | Server-side: loss 0.072 | Client-side: loss 0.813, average time 1921.5ms | Valid Set: Accuracy 78.4200, F1 score 0.78
+0.71
+Epoch 120 | Server-side: loss 0.073 | Client-side: loss 0.870, average time 1932.6ms | Valid Set: Accuracy 78.2600, F1 score 0.78
+0.75
+Epoch 121 | Server-side: loss 0.070 | Client-side: loss 1.017, average time 1944.9ms | Valid Set: Accuracy 75.9400, F1 score 0.76
+0.76
+Epoch 122 | Server-side: loss 0.067 | Client-side: loss 0.829, average time 1947.1ms | Valid Set: Accuracy 78.3200, F1 score 0.78
+0.79
+Epoch 123 | Server-side: loss 0.068 | Client-side: loss 0.886, average time 1950.1ms | Valid Set: Accuracy 77.6900, F1 score 0.78
+0.79
+Epoch 124 | Server-side: loss 0.066 | Client-side: loss 0.965, average time 1939.7ms | Valid Set: Accuracy 76.9500, F1 score 0.77
+0.8
+Epoch 125 | Server-side: loss 0.067 | Client-side: loss 0.828, average time 1954.0ms | Valid Set: Accuracy 78.0000, F1 score 0.78
+0.8
+Epoch 126 | Server-side: loss 0.059 | Client-side: loss 0.910, average time 1947.3ms | Valid Set: Accuracy 77.3200, F1 score 0.77
+0.82
+Epoch 127 | Server-side: loss 0.064 | Client-side: loss 0.890, average time 1927.5ms | Valid Set: Accuracy 77.9000, F1 score 0.78
+0.82
+Epoch 128 | Server-side: loss 0.059 | Client-side: loss 0.870, average time 1949.8ms | Valid Set: Accuracy 77.8100, F1 score 0.78
+0.83
+Epoch 129 | Server-side: loss 0.054 | Client-side: loss 0.855, average time 1924.6ms | Valid Set: Accuracy 78.0500, F1 score 0.78
+0.85
+Epoch 130 | Server-side: loss 0.060 | Client-side: loss 0.820, average time 1951.8ms | Valid Set: Accuracy 78.6500, F1 score 0.79
+0.85
+Epoch 131 | Server-side: loss 0.062 | Client-side: loss 0.836, average time 1924.3ms | Valid Set: Accuracy 78.1700, F1 score 0.78
+0.86
+Epoch 132 | Server-side: loss 0.053 | Client-side: loss 0.855, average time 1911.7ms | Valid Set: Accuracy 78.0700, F1 score 0.78
+0.87
+Epoch 133 | Server-side: loss 0.056 | Client-side: loss 0.834, average time 1937.0ms | Valid Set: Accuracy 78.7800, F1 score 0.79
+0.87
+Epoch 134 | Server-side: loss 0.052 | Client-side: loss 0.814, average time 1936.0ms | Valid Set: Accuracy 78.7800, F1 score 0.79
+0.88
+Epoch 135 | Server-side: loss 0.053 | Client-side: loss 0.833, average time 1942.4ms | Valid Set: Accuracy 78.4800, F1 score 0.78
+0.89
+Epoch 136 | Server-side: loss 0.046 | Client-side: loss 0.849, average time 1941.7ms | Valid Set: Accuracy 78.1600, F1 score 0.78
+0.89
+Epoch 137 | Server-side: loss 0.048 | Client-side: loss 0.814, average time 1913.6ms | Valid Set: Accuracy 78.8700, F1 score 0.79
+0.89
+Epoch 138 | Server-side: loss 0.044 | Client-side: loss 0.833, average time 1935.1ms | Valid Set: Accuracy 78.3700, F1 score 0.78
+0.9
+Epoch 139 | Server-side: loss 0.046 | Client-side: loss 0.819, average time 1912.3ms | Valid Set: Accuracy 78.7900, F1 score 0.79
+0.91
+Epoch 140 | Server-side: loss 0.046 | Client-side: loss 0.833, average time 1929.2ms | Valid Set: Accuracy 78.9400, F1 score 0.79
+0.91
+Epoch 141 | Server-side: loss 0.041 | Client-side: loss 0.820, average time 1911.0ms | Valid Set: Accuracy 78.8800, F1 score 0.79
+0.91
+Epoch 142 | Server-side: loss 0.040 | Client-side: loss 0.868, average time 1884.6ms | Valid Set: Accuracy 78.2900, F1 score 0.78
+0.91
+Epoch 143 | Server-side: loss 0.052 | Client-side: loss 0.870, average time 1945.7ms | Valid Set: Accuracy 78.2000, F1 score 0.78
+0.92
+Epoch 144 | Server-side: loss 0.039 | Client-side: loss 0.841, average time 1918.6ms | Valid Set: Accuracy 78.5800, F1 score 0.79
+0.92
+Epoch 145 | Server-side: loss 0.039 | Client-side: loss 0.810, average time 1902.3ms | Valid Set: Accuracy 79.0500, F1 score 0.79
+0.92
+Epoch 146 | Server-side: loss 0.052 | Client-side: loss 0.818, average time 1915.7ms | Valid Set: Accuracy 78.8600, F1 score 0.79
+0.93
+Epoch 147 | Server-side: loss 0.043 | Client-side: loss 0.807, average time 1941.2ms | Valid Set: Accuracy 78.9500, F1 score 0.79
+0.93
+Epoch 148 | Server-side: loss 0.040 | Client-side: loss 0.863, average time 1912.9ms | Valid Set: Accuracy 78.1300, F1 score 0.78
+0.93
+Epoch 149 | Server-side: loss 0.037 | Client-side: loss 0.820, average time 1904.1ms | Valid Set: Accuracy 78.8800, F1 score 0.79
+0.93
+Epoch 150 | Server-side: loss 0.039 | Client-side: loss 0.862, average time 1908.8ms | Valid Set: Accuracy 78.4600, F1 score 0.78
+0.93
+Epoch 151 | Server-side: loss 0.041 | Client-side: loss 0.812, average time 1907.0ms | Valid Set: Accuracy 79.2300, F1 score 0.79
+0.94
+Epoch 152 | Server-side: loss 0.038 | Client-side: loss 0.816, average time 1929.5ms | Valid Set: Accuracy 78.7800, F1 score 0.79
+0.94
+Epoch 153 | Server-side: loss 0.039 | Client-side: loss 0.786, average time 1928.9ms | Valid Set: Accuracy 79.1900, F1 score 0.79
+0.94
+Epoch 154 | Server-side: loss 0.041 | Client-side: loss 0.818, average time 1905.2ms | Valid Set: Accuracy 79.1300, F1 score 0.79
+0.94
+Epoch 155 | Server-side: loss 0.038 | Client-side: loss 0.803, average time 1931.6ms | Valid Set: Accuracy 78.9700, F1 score 0.79
+0.94
+Epoch 156 | Server-side: loss 0.036 | Client-side: loss 0.808, average time 1903.9ms | Valid Set: Accuracy 78.5300, F1 score 0.79
+0.94
+Epoch 157 | Server-side: loss 0.046 | Client-side: loss 0.810, average time 1931.4ms | Valid Set: Accuracy 79.1000, F1 score 0.79
+0.94
+Epoch 158 | Server-side: loss 0.031 | Client-side: loss 0.833, average time 1906.7ms | Valid Set: Accuracy 78.7600, F1 score 0.79
+0.95
+Epoch 159 | Server-side: loss 0.034 | Client-side: loss 0.793, average time 1952.2ms | Valid Set: Accuracy 79.1600, F1 score 0.79
+0.95
+Epoch 160 | Server-side: loss 0.033 | Client-side: loss 0.836, average time 1922.1ms | Valid Set: Accuracy 78.4400, F1 score 0.78
+0.95
+Epoch 161 | Server-side: loss 0.038 | Client-side: loss 0.871, average time 1951.2ms | Valid Set: Accuracy 78.5500, F1 score 0.79
+0.95
+Epoch 162 | Server-side: loss 0.039 | Client-side: loss 0.834, average time 1948.5ms | Valid Set: Accuracy 78.5000, F1 score 0.79
+0.95
+Epoch 163 | Server-side: loss 0.031 | Client-side: loss 0.838, average time 1920.6ms | Valid Set: Accuracy 78.6600, F1 score 0.79
+0.95
+Epoch 164 | Server-side: loss 0.028 | Client-side: loss 0.831, average time 1912.0ms | Valid Set: Accuracy 78.7700, F1 score 0.79
+0.96
+Epoch 165 | Server-side: loss 0.029 | Client-side: loss 0.836, average time 1926.7ms | Valid Set: Accuracy 79.1100, F1 score 0.79
+0.96
+Epoch 166 | Server-side: loss 0.029 | Client-side: loss 0.827, average time 1891.2ms | Valid Set: Accuracy 78.6000, F1 score 0.79
+0.96
+Epoch 167 | Server-side: loss 0.033 | Client-side: loss 0.881, average time 1916.9ms | Valid Set: Accuracy 78.4400, F1 score 0.78
+0.96
+Epoch 168 | Server-side: loss 0.030 | Client-side: loss 0.834, average time 1930.2ms | Valid Set: Accuracy 78.9200, F1 score 0.79
+0.96
+Epoch 169 | Server-side: loss 0.029 | Client-side: loss 0.826, average time 1935.8ms | Valid Set: Accuracy 78.8200, F1 score 0.79
+0.96
+Epoch 170 | Server-side: loss 0.029 | Client-side: loss 0.834, average time 1902.4ms | Valid Set: Accuracy 78.6000, F1 score 0.79
+0.96
+Epoch 171 | Server-side: loss 0.026 | Client-side: loss 0.843, average time 1945.3ms | Valid Set: Accuracy 78.7800, F1 score 0.79
+0.96
+Epoch 172 | Server-side: loss 0.028 | Client-side: loss 0.862, average time 1947.5ms | Valid Set: Accuracy 78.3200, F1 score 0.78
+0.96
+Epoch 173 | Server-side: loss 0.030 | Client-side: loss 0.816, average time 1912.9ms | Valid Set: Accuracy 79.3200, F1 score 0.79
+0.96
+Epoch 174 | Server-side: loss 0.025 | Client-side: loss 0.883, average time 1912.7ms | Valid Set: Accuracy 77.9600, F1 score 0.78
+0.97
+Epoch 175 | Server-side: loss 0.029 | Client-side: loss 0.889, average time 1938.9ms | Valid Set: Accuracy 78.2400, F1 score 0.78
+0.97
+Epoch 176 | Server-side: loss 0.026 | Client-side: loss 0.825, average time 1941.8ms | Valid Set: Accuracy 79.3300, F1 score 0.79
+0.97
+Epoch 177 | Server-side: loss 0.026 | Client-side: loss 0.827, average time 1938.3ms | Valid Set: Accuracy 78.7700, F1 score 0.79
+0.97
+Epoch 178 | Server-side: loss 0.027 | Client-side: loss 0.858, average time 1936.0ms | Valid Set: Accuracy 78.9800, F1 score 0.79
+0.97
+Epoch 179 | Server-side: loss 0.029 | Client-side: loss 0.848, average time 1911.4ms | Valid Set: Accuracy 78.8700, F1 score 0.79
+0.97
+Epoch 180 | Server-side: loss 0.026 | Client-side: loss 0.816, average time 1936.1ms | Valid Set: Accuracy 79.1600, F1 score 0.79
+0.97
+Epoch 181 | Server-side: loss 0.026 | Client-side: loss 0.851, average time 1938.6ms | Valid Set: Accuracy 78.3900, F1 score 0.78
+0.97
+Epoch 182 | Server-side: loss 0.026 | Client-side: loss 0.817, average time 1947.6ms | Valid Set: Accuracy 79.3600, F1 score 0.79
+0.97
+Epoch 183 | Server-side: loss 0.027 | Client-side: loss 0.804, average time 1952.8ms | Valid Set: Accuracy 79.2200, F1 score 0.79
+0.97
+Epoch 184 | Server-side: loss 0.025 | Client-side: loss 0.856, average time 1975.9ms | Valid Set: Accuracy 78.7600, F1 score 0.79
+0.97
+Epoch 185 | Server-side: loss 0.027 | Client-side: loss 0.818, average time 1977.7ms | Valid Set: Accuracy 79.4500, F1 score 0.79
+0.97
+Epoch 186 | Server-side: loss 0.029 | Client-side: loss 0.878, average time 1960.6ms | Valid Set: Accuracy 78.3700, F1 score 0.78
+0.97
+Epoch 187 | Server-side: loss 0.024 | Client-side: loss 0.822, average time 1945.9ms | Valid Set: Accuracy 79.1100, F1 score 0.79
+0.98
+Epoch 188 | Server-side: loss 0.030 | Client-side: loss 0.815, average time 1966.1ms | Valid Set: Accuracy 79.0200, F1 score 0.79
+0.98
+Epoch 189 | Server-side: loss 0.023 | Client-side: loss 0.799, average time 1946.6ms | Valid Set: Accuracy 79.2700, F1 score 0.79
+0.98
+Epoch 190 | Server-side: loss 0.022 | Client-side: loss 0.843, average time 1958.5ms | Valid Set: Accuracy 79.1000, F1 score 0.79
+0.98
+Epoch 191 | Server-side: loss 0.023 | Client-side: loss 0.836, average time 1975.0ms | Valid Set: Accuracy 79.4400, F1 score 0.79
+0.98
+Epoch 192 | Server-side: loss 0.024 | Client-side: loss 0.836, average time 1927.9ms | Valid Set: Accuracy 79.2200, F1 score 0.79
+0.98
+Epoch 193 | Server-side: loss 0.023 | Client-side: loss 0.794, average time 1964.2ms | Valid Set: Accuracy 79.4300, F1 score 0.79
+0.98
+Epoch 194 | Server-side: loss 0.025 | Client-side: loss 0.860, average time 1930.3ms | Valid Set: Accuracy 78.6700, F1 score 0.79
+0.98
+Epoch 195 | Server-side: loss 0.025 | Client-side: loss 0.856, average time 1938.9ms | Valid Set: Accuracy 79.0400, F1 score 0.79
+0.98
+Epoch 196 | Server-side: loss 0.023 | Client-side: loss 0.860, average time 1937.8ms | Valid Set: Accuracy 79.1100, F1 score 0.79
+0.98
+Epoch 197 | Server-side: loss 0.026 | Client-side: loss 0.798, average time 1936.2ms | Valid Set: Accuracy 79.6100, F1 score 0.80
+0.98
+Epoch 198 | Server-side: loss 0.028 | Client-side: loss 0.792, average time 1930.1ms | Valid Set: Accuracy 79.0800, F1 score 0.79
+0.98
+Epoch 199 | Server-side: loss 0.024 | Client-side: loss 0.808, average time 1940.7ms | Valid Set: Accuracy 79.4400, F1 score 0.79
