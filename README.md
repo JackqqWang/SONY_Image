@@ -53,9 +53,9 @@ Note that there is a significant increase in client time and client-side trainin
 |non FL   |  75.05% | 0.75  |
 |FedSem| 73.70%  | 0.74  |   
 |FedSem_updated| 77.26%  | 0.77  | 
-|FedSSL| 78.92%  | 0.79  |  
 |FedMix| 73.02%  | 0.73  |  
-|FedMatch| 76.50%  |  0.76 |  
+|FedMatch| 76.50%  |  0.76 |
+|FedSSL| 78.92%  | 0.79  | 
 
 
 The results of our framework:
